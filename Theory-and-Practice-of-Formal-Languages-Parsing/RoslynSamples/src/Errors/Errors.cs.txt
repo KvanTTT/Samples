@@ -1,0 +1,12 @@
+﻿namespace App
+{
+    class Program
+    {
+        static void void Main(string[] args)  // Invalid token
+        {
+            a                // ';' expected
+            string s = """;  // Newline in constant
+            char c = '';     // Empty character literal
+        }
+    }
+}

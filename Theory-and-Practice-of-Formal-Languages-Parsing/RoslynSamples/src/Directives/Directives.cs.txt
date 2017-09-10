@@ -1,0 +1,13 @@
+﻿namespace Directives
+{
+    public class Sample
+    {
+        bool trueFlag =
+#if NETCORE
+    true
+#else
+    new Random().Next(100) > 95 ? true : false
+#endif
+        ;
+    }
+}
