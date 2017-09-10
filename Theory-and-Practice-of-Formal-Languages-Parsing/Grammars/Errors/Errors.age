@@ -1,0 +1,20 @@
+{
+  "Runtimes": [
+    "CSharpSharwell"
+  ],
+  "Name": "Errors",
+  "Root": "root",
+  "FileExtension": "txt",
+  "SeparatedLexerAndParser": false,
+  "CaseInsensitive": false,
+  "Preprocessor": false,
+  "PreprocessorCaseInsensitive": false,
+  "PreprocessorRoot": "preprocessorRootRule",
+  "PreprocessorSeparatedLexerAndParser": false,
+  "Files": [
+    "Errors.g4"
+  ],
+  "TextFiles": [
+    "Errors_text.txt"
+  ]
+}

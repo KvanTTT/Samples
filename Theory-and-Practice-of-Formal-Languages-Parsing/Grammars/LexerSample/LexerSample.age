@@ -1,0 +1,21 @@
+{
+  "Runtimes": [
+    "CSharpSharwell"
+  ],
+  "Name": "LexerSample",
+  "Root": "root",
+  "FileExtension": "txt",
+  "SeparatedLexerAndParser": true,
+  "CaseInsensitive": false,
+  "Preprocessor": false,
+  "PreprocessorCaseInsensitive": false,
+  "PreprocessorRoot": "preprocessorRootRule",
+  "PreprocessorSeparatedLexerAndParser": false,
+  "Files": [
+    "LexerSampleLexer.g4",
+    "LexerSampleParser.g4"
+  ],
+  "TextFiles": [
+    "LexerSample_text.txt"
+  ]
+}

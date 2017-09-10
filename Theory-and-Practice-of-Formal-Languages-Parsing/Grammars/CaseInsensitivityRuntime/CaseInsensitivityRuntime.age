@@ -1,0 +1,21 @@
+{
+  "Runtimes": [
+    "CSharpSharwell"
+  ],
+  "Name": "CaseInsensitivityRuntime",
+  "Root": "rootRule",
+  "FileExtension": "txt",
+  "SeparatedLexerAndParser": true,
+  "CaseInsensitive": true,
+  "Preprocessor": false,
+  "PreprocessorCaseInsensitive": false,
+  "PreprocessorRoot": "preprocessorRootRule",
+  "PreprocessorSeparatedLexerAndParser": false,
+  "Files": [
+    "CaseInsensitivityRuntimeLexer.g4",
+    "CaseInsensitivityRuntimeParser.g4"
+  ],
+  "TextFiles": [
+    "CaseInsensitivityRuntime_text.txt"
+  ]
+}

@@ -1,0 +1,8 @@
+<html>   
+    <table id="t1">
+          HTML text
+    </table>
+    <script>
+          document.body.innerHTML="<svg/onload=alert(1)>"
+    </script> 
+</html>

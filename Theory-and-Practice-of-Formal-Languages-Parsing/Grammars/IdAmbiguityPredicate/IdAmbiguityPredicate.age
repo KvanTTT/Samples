@@ -1,0 +1,20 @@
+{
+  "Runtimes": [
+    "CSharpSharwell"
+  ],
+  "Name": "IdAmbiguityPredicate",
+  "Root": "varDeclaration",
+  "FileExtension": "txt",
+  "SeparatedLexerAndParser": false,
+  "CaseInsensitive": false,
+  "Preprocessor": false,
+  "PreprocessorCaseInsensitive": false,
+  "PreprocessorRoot": "preprocessorRootRule",
+  "PreprocessorSeparatedLexerAndParser": false,
+  "Files": [
+    "IdAmbiguityPredicate.g4"
+  ],
+  "TextFiles": [
+    "IdAmbiguityPredicate_text.txt"
+  ]
+}

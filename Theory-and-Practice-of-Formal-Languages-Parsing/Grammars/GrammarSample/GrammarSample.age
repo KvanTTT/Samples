@@ -1,0 +1,20 @@
+{
+  "Runtimes": [
+    "CSharpSharwell"
+  ],
+  "Name": "GrammarSample",
+  "Root": "expr",
+  "FileExtension": "txt",
+  "SeparatedLexerAndParser": false,
+  "CaseInsensitive": false,
+  "Preprocessor": false,
+  "PreprocessorCaseInsensitive": false,
+  "PreprocessorRoot": "preprocessorRootRule",
+  "PreprocessorSeparatedLexerAndParser": false,
+  "Files": [
+    "GrammarSample.g4"
+  ],
+  "TextFiles": [
+    "GrammarSample_text.txt"
+  ]
+}

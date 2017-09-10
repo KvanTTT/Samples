@@ -1,0 +1,21 @@
+{
+  "Runtimes": [
+    "CSharpSharwell"
+  ],
+  "Name": "Islands",
+  "Root": "htmlDocument",
+  "FileExtension": "txt",
+  "SeparatedLexerAndParser": true,
+  "CaseInsensitive": false,
+  "Preprocessor": false,
+  "PreprocessorCaseInsensitive": false,
+  "PreprocessorRoot": "preprocessorRootRule",
+  "PreprocessorSeparatedLexerAndParser": false,
+  "Files": [
+    "IslandsLexer.g4",
+    "IslandsParser.g4"
+  ],
+  "TextFiles": [
+    "Islands_text.txt"
+  ]
+}

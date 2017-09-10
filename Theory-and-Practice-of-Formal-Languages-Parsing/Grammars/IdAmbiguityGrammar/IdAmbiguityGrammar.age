@@ -1,0 +1,20 @@
+{
+  "Runtimes": [
+    "CSharpSharwell"
+  ],
+  "Name": "IdAmbiguityGrammar",
+  "Root": "varDeclaration",
+  "FileExtension": "txt",
+  "SeparatedLexerAndParser": false,
+  "CaseInsensitive": false,
+  "Preprocessor": false,
+  "PreprocessorCaseInsensitive": false,
+  "PreprocessorRoot": "preprocessorRootRule",
+  "PreprocessorSeparatedLexerAndParser": false,
+  "Files": [
+    "IdAmbiguityGrammar.g4"
+  ],
+  "TextFiles": [
+    "IdAmbiguityGrammar_text.txt"
+  ]
+}

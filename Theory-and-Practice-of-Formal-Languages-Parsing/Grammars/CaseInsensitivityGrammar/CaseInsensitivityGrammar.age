@@ -1,0 +1,21 @@
+{
+  "Runtimes": [
+    "CSharpSharwell"
+  ],
+  "Name": "CaseInsensitivityGrammar",
+  "Root": "rootRule",
+  "FileExtension": "txt",
+  "SeparatedLexerAndParser": true,
+  "CaseInsensitive": false,
+  "Preprocessor": false,
+  "PreprocessorCaseInsensitive": false,
+  "PreprocessorRoot": "preprocessorRootRule",
+  "PreprocessorSeparatedLexerAndParser": false,
+  "Files": [
+    "CaseInsensitivityGrammarLexer.g4",
+    "CaseInsensitivityGrammarParser.g4"
+  ],
+  "TextFiles": [
+    "CaseInsensitivityGrammar_text.txt"
+  ]
+}
