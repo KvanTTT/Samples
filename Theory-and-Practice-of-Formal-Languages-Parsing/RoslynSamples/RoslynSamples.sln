@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Errors", "src\Errors\Errors
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ambiguities", "src\Ambiguities\Ambiguities.csproj", "{5F29F3F7-2F9C-45B8-9E07-2C896D4D0D5E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strings", "src\Strings\Strings.csproj", "{3ED1894F-D162-4282-8D37-3E6B6F3FB988}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,6 +33,10 @@ Global
 		{5F29F3F7-2F9C-45B8-9E07-2C896D4D0D5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5F29F3F7-2F9C-45B8-9E07-2C896D4D0D5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5F29F3F7-2F9C-45B8-9E07-2C896D4D0D5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3ED1894F-D162-4282-8D37-3E6B6F3FB988}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ED1894F-D162-4282-8D37-3E6B6F3FB988}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ED1894F-D162-4282-8D37-3E6B6F3FB988}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ED1894F-D162-4282-8D37-3E6B6F3FB988}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -39,5 +45,6 @@ Global
 		{BAF690FE-BFA0-4E61-9DE0-DCD9F1DCF2F8} = {2DDE221D-9527-4F78-9A9B-11725FAEDCD3}
 		{ED74D72B-922B-4AD4-A6A2-1F9101361FFA} = {2DDE221D-9527-4F78-9A9B-11725FAEDCD3}
 		{5F29F3F7-2F9C-45B8-9E07-2C896D4D0D5E} = {2DDE221D-9527-4F78-9A9B-11725FAEDCD3}
+		{3ED1894F-D162-4282-8D37-3E6B6F3FB988} = {2DDE221D-9527-4F78-9A9B-11725FAEDCD3}
 	EndGlobalSection
 EndGlobal
