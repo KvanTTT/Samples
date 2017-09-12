@@ -30,3 +30,5 @@ DIGIT: [0-9]+;
 WHITESPACE: [ \r\n\t]+ -> channel(HIDDEN);
 COMMENT: '//' ~[\r\n]* -> channel(HIDDEN);
 
+// ERROR: . -> channel(HIDDEN); // Try to uncomment this for moving unrecognized tokens to HIDDEN channel.
+
