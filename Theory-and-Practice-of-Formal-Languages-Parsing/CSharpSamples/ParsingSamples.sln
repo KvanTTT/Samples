@@ -5,8 +5,6 @@ VisualStudioVersion = 15.0.26430.6
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{2DDE221D-9527-4F78-9A9B-11725FAEDCD3}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6537CD2E-7FA8-419A-A98F-5F133480337F}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Directives", "src\Directives\Directives.csproj", "{BAF690FE-BFA0-4E61-9DE0-DCD9F1DCF2F8}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Errors", "src\Errors\Errors.csproj", "{ED74D72B-922B-4AD4-A6A2-1F9101361FFA}"
@@ -15,7 +13,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ambiguities", "src\Ambiguit
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Strings", "src\Strings\Strings.csproj", "{3ED1894F-D162-4282-8D37-3E6B6F3FB988}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Combinators", "src\Combinators\Combinators.csproj", "{DEC0EAE7-78DE-4507-A97B-6967436F22A9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Combinators", "src\Combinators\Combinators.csproj", "{DEC0EAE7-78DE-4507-A97B-6967436F22A9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -53,5 +51,8 @@ Global
 		{5F29F3F7-2F9C-45B8-9E07-2C896D4D0D5E} = {2DDE221D-9527-4F78-9A9B-11725FAEDCD3}
 		{3ED1894F-D162-4282-8D37-3E6B6F3FB988} = {2DDE221D-9527-4F78-9A9B-11725FAEDCD3}
 		{DEC0EAE7-78DE-4507-A97B-6967436F22A9} = {2DDE221D-9527-4F78-9A9B-11725FAEDCD3}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7244015-F9DF-4081-85BF-28749C264E8B}
 	EndGlobalSection
 EndGlobal
